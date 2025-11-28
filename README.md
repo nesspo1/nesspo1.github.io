@@ -1,2 +1,2 @@
 
-gamestream: [nesspo1.github.io/public/index.html](url)
+gamestream: [https://nesspo1.github.io/public/index.html](url)
